@@ -5,359 +5,583 @@
 <meta name="language" content="en"/>
 
 
-	<category>
-      <pattern>UNDERTAKING DEAN ADMISSIONS</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the undertaking by Dean Admissions : http://www.rknec.edu/Admissions/admissionlanding.aspx</li>
-			<li>Please goto this link to view the undertaking by Dean Admissions : http://www.rknec.edu/Admissions/admissionlanding.aspx</li>
-			<li>Have a look over here to view the undertaking by Dean Admissions : http://www.rknec.edu/Admissions/admissionlanding.aspx</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>DEAN ADMISSIONS</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the details of Dean Admissions : http://www.rknec.edu/About/Administration/DeanAdmissions.aspx</li>
-			<li>Please goto this link to view the details of Dean Admissions : http://www.rknec.edu/About/Administration/DeanAdmissions.aspx</li>
-			<li>Have a look over here to view the details of Dean Admissions : http://www.rknec.edu/About/Administration/DeanAdmissions.aspx</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>NRI</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the details of NRI Admission Procedure : http://nri-admissions.org/</li>
-			<li>Please goto this link to view the details of NRI Admission Procedure : http://nri-admissions.org/</li>
-			<li>Have a look over here to view the details of NRI Admission Procedure : http://nri-admissions.org/</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>FIRST YEAR BE ADMISSIONS</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the guidelines of First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx</li>
-			<li>Please goto this link to view the guidelines of First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx</li>
-			<li>Have a look over here to view the guidelines of First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx</li>
-		</random>
-	  </template>
-    </category>
+<category>
+<pattern> UNDERTAKING DEAN ADMISSIONS </pattern>
+<template>
+<random>
+        <li> Click on this link to view the undertaking by Dean Admissions :
+             http://www.ssmengg.edu.in/Admissions/admissionlanding.aspx </li>
+        <li> Please goto this link to view the undertaking by Dean Admissions :
+             http://www.ssmengg.edu.in/Admissions/admissionlanding.aspx </li>
+        <li> Have a look over here to view the undertaking by Dean Admissions :
+             http://www.ssmengg.edu.in/Admissions/admissionlanding.aspx </li>
+</random>
+</template>
+</category>
 	
-	<category>
-      <pattern>ELIGIBILITY ADMISSION FIRST YEAR BE</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the eligibility criteria to First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
-			<li>Please goto this link to view the eligibility criteria to First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
-			<li>Have a look over here to view the eligibility criteria to First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>SEAT DISTRIBUTION ADMISSION FIRST YEAR BE</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the seat distribution for  First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
-			<li>Please goto this link to view the seat distribution for First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
-			<li>Have a look over here to view the seat distribution for First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>DOCUMENTS ADMISSION FIRST YEAR BE</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the documents required for  First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
-			<li>Please goto this link to view the documents required for First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
-			<li>Have a look over here to view the documents required for First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>FEE STRUCTURE FIRST YEAR BE</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the fee structure for  First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
-			<li>Please goto this link to view the fee structure required for First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
-			<li>Have a look over here to view the fee structure for First Year BE Admissions : http://www.rknec.edu/Admissions/First-Year.aspx#</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>ELIGIBILITY ADMISSION DIRECT SECOND YEAR BE</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the eligibility criteria to Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
-			<li>Please goto this link to view the eligibility criteria to Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
-			<li>Have a look over here to view the eligibility criteria to Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>SEAT DISTRIBUTION ADMISSION DIRECT SECOND YEAR BE</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the seat distribution for  Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
-			<li>Please goto this link to view the seat distribution for Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
-			<li>Have a look over here to view the seat distribution for Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>DOCUMENTS ADMISSION DIRECT SECOND YEAR BE</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the documents required for  Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
-			<li>Please goto this link to view the documents required for Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
-			<li>Have a look over here to view the documents required for Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>FEE STRUCTURE DIRECT SECOND YEAR BE</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the fee structure for  Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
-			<li>Please goto this link to view the fee structure required for Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
-			<li>Have a look over here to view the fee structure for Direct Second Year BE Admissions : http://www.rknec.edu/Admissions/AdmissionDirect2ndYearBE.aspx#</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>ELIGIBILITY ADMISSION MBA</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the eligibility criteria to MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
-			<li>Please goto this link to view the eligibility criteria to MBA Admissions :http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
-			<li>Have a look over here to view the eligibility criteria to MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>SEAT DISTRIBUTION ADMISSION MBA</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the seat distribution for  MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
-			<li>Please goto this link to view the seat distribution for MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
-			<li>Have a look over here to view the seat distribution for MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>DOCUMENTS ADMISSION MBA</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the documents required for MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
-			<li>Please goto this link to view the documents required for MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
-			<li>Have a look over here to view the documents required for MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>FEE STRUCTURE MBA</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the fee structure for MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
-			<li>Please goto this link to view the fee structure required for MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
-			<li>Have a look over here to view the fee structure for MBA Admissions : http://www.rknec.edu/Admissions/AdmissionMBA.aspx#</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>ELIGIBILITY CRITERIA ADMISSION MBA INTEGRATED</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the eligibility criteria to MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
-			<li>Please goto this link to view the eligibility criteria to MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
-			<li>Have a look over here to view the eligibility criteria to MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>SEAT DISTRIBUTION ADMISSION MBA INTEGRATED</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the seat distribution for  MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
-			<li>Please goto this link to view the seat distribution for MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
-			<li>Have a look over here to view the seat distribution for MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>DOCUMENTS ADMISSION MBA INTEGRATED</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the documents required for MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
-			<li>Please goto this link to view the documents required for MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
-			<li>Have a look over here to view the documents required for MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>FEE STRUCTURE MBA INTEGRATED</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the fee structure for MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
-			<li>Please goto this link to view the fee structure required for MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
-			<li>Have a look over here to view the fee structure for MBA Integrated Admissions : http://www.rknec.edu/Admissions/AdmissionMBAIntegrated.aspx#</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>ELIGIBILITY CRITERIA ADMISSION MTECH</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the eligibility criteria to M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
-			<li>Please goto this link to view the eligibility criteria to M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
-			<li>Have a look over here to view the eligibility criteria to M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>SEAT DISTRIBUTION ADMISSION MTECH</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the seat distribution for  M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
-			<li>Please goto this link to view the seat distribution for M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
-			<li>Have a look over here to view the seat distribution for M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>DOCUMENTS ADMISSION MTECH</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the documents required for M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
-			<li>Please goto this link to view the documents required for M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
-			<li>Have a look over here to view the documents required for M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>FEE STRUCTURE MTECH</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the fee structure for M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
-			<li>Please goto this link to view the fee structure required for M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
-			<li>Have a look over here to view the fee structure for M.Tech Admissions : http://www.rknec.edu/Admissions/AdmissionMTech.aspx</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>ELIGIBILITY ADMISSION MCA</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the eligibility criteria to MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
-			<li>Please goto this link to view the eligibility criteria to MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
-			<li>Have a look over here to view the eligibility criteria to MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>SEAT DISTRIBUTION ADMISSION MCA</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the seat distribution for  MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
-			<li>Please goto this link to view the seat distribution for MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
-			<li>Have a look over here to view the seat distribution for MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>DOCUMENTS REQUIRED ADMISSION MCA</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the documents required for MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
-			<li>Please goto this link to view the documents required for MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
-			<li>Have a look over here to view the documents required for MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>FEE STRUCTURE MCA</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the fee structure for MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
-			<li>Please goto this link to view the fee structure required for MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
-			<li>Have a look over here to view the fee structure for MCA Admissions : http://www.rknec.edu/Admissions/AdmissionMCA.aspx#</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>DOCTORAL PROGRAMMES</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the Doctoral Programmes offered : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-			<li>Please goto this link to view the Doctoral Programmes offered : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-			<li>Have a look over here to view the Doctoral Programmes offered : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>PHD SUPERVISORS</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the list of PhD supervisors : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-			<li>Please goto this link to view the list of PhD supervisors : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-			<li>Have a look over here to view the list of PhD supervisors : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>PHD SCHOLARS</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the list of PhD scholars: http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-			<li>Please goto this link to view the list of PhD scholars : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-			<li>Have a look over here to view the list of PhD scholars : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>PHD GUIDELINES</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the PhD programme guidelines: http://www.rknec.edu/R%20and%20D/Docs/PhD%20Admissions%20Guidelines%202018%20v%200.pdf</li>
-			<li>Please goto this link to view the PhD programme guidelines : http://www.rknec.edu/R%20and%20D/Docs/PhD%20Admissions%20Guidelines%202018%20v%200.pdf</li>
-			<li>Have a look over here to view the PhD programme guidelines : http://www.rknec.edu/R%20and%20D/Docs/PhD%20Admissions%20Guidelines%202018%20v%200.pdf</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>UNIVERSITY ORDINANCES</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the university ordinances : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-			<li>Please goto this link to view the university ordinances : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-			<li>Have a look over here to view the university ordinances : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>ADMISSION NOTIFICATION</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the admission notifications : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-			<li>Please goto this link to view the admission notifications : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-			<li>Have a look over here to view the admission notifications : http://www.rknec.edu/R%20and%20D/PhD-Programme.aspx</li>
-		</random>
-	  </template>
-    </category>
-	<category>
-      <pattern>RESEARCH DEVRLOPMENT CELL</pattern>
-      <template>
-		<random>
-			<li>Click on this link to view the details regarding RandD Cell: http://www.rknec.edu/R%20and%20D/RandDCell.aspx</li>
-			<li>Please goto this link to view the details regarding RandD Cell : http://www.rknec.edu/R%20and%20D/RandDCell.aspx</li>
-			<li>Have a look over here to view the details regarding RandD Cell : http://www.rknec.edu/R%20and%20D/RandDCell.aspx</li>
-		</random>
-	  </template>
-    </category>
-	</aiml>
+
+<category>
+<pattern> DEAN ADMISSIONS </pattern>
+<template>
+<random>
+        <li> Click on this link to view the details of Dean Admissions :
+             http://www.ssmengg.edu.in/About/Administration/DeanAdmissions.aspx </li>
+        <li> Please goto this link to view the details of Dean Admissions :
+             http://www.ssmengg.edu.in/About/Administration/DeanAdmissions.aspx </li>
+        <li> Have a look over here to view the details of Dean Admissions :
+             http://www.ssmengg.edu.in/About/Administration/DeanAdmissions.aspx </li>
+</random>
+</template>
+</category>
+
+
+<category>
+<pattern> FIRST YEAR BE ADMISSIONS </pattern>
+<template>
+<random>
+        <li> The first year BE admissions are usually started as per the BOPEE circular but approximately starts in moth of july-august every year.
+	     Click on this link to view the guidelines of First Year BE Admissions :
+             http://www.ssmengg.edu.in/Admissions/First-Year.aspx </li>
+        <li> BE first year admissions are done as per BOPEE notices.
+	     Please goto this link to view the guidelines of First Year BE Admissions :
+             http://www.ssmengg.edu.in/Admissions/First-Year.aspx </li>
+        <li> The first year BE admissions are usually started as per the BOPEE circular but approximately starts in moth of july-august every year.
+	     Have a look over here to view the guidelines of First Year BE Admissions :
+             http://www.ssmengg.edu.in/Admissions/First-Year.aspx </li>
+</random>
+</template>
+</category>
 	
+
+<category>
+<pattern> ELIGIBILITY ADMISSION FIRST YEAR BE </pattern>
+<template>
+<random>
+	<li> Basic eligibility for BE first year admission are:
+	     1.Student should be 12th class qualified with core subjects physics,maths,chemistry.
+	     2.Student should have valid BOPEE CET scorecard.
+	     Click on this link to read about further details:      
+             http://www.ssmengg.edu.in/Admissions/First-Year.aspx# </li>
+	<li> Eligibility for BE first year are
+	     1.12th qualified 
+	     2.Student have apperared in common entrance test(CET) held BOPEE,and have valid scorecard.
+	     For more details please goto this link to view the eligibility criteria to First Year BE Admissions :   
+             http://www.ssmengg.edu.in/Admissions/First-Year.aspx# </li>
+	<li> Students who fulfill the following requirments are ELIGILBLE for admission to BE first year 
+	     1.Student should be 12th class qualified with core subjects physics,maths,chemistry.
+	     2.Student should have valid BOPEE CET scorecard.
+	     Have a look over here to view the eligibility criteria to First Year BE Admissions :  
+             http://www.ssmengg.edu.in/Admissions/First-Year.aspx# </li>
+</random>
+</template>
+</category>
 	
+
+<category>
+<pattern> SEAT DISTRIBUTION ADMISSION FIRST YEAR BE </pattern>
+<template>
+<random>
+	<li> The seat distribution for first year BE admisssion is as:
+	     1.Department of Civil Engineering :    180 students with 3 sections
+	     2.Department of Mechanical Engineering:   120 students with 2 sections
+	     3.Department of E&C :       120 students with 2 sections
+	     4.Department of Electricel Engineering :  60 students with 1 section
+	     5.Department of Computer Science Engineering :    120 students with 2 sections
+	     Click on this link for further clarification :   
+             http://www.ssmengg.edu.in/Admissions/First-Year.aspx# </li>
+	<li> Seat distribution in SSM in BE degree is as:
+	     CIVIL :  180 seats      MECHANICAL :    120 seats
+	     E&C :    120 seats      ELECTRICAL :    60 seats
+		     COMPUTER SCIENCE :   120 seats
+	     Please goto this link to view the seat distribution for First Year BE Admissions :  
+             http://www.ssmengg.edu.in/Admissions/First-Year.aspx# </li>
+</random>
+</template>
+</category>
 	
+
+<category>
+<pattern> DOCUMENTS ADMISSION FIRST YEAR BE </pattern>
+<template>
+<random>
+	<li>DOCUMENTS required for the purpose of BE first year admission are:
+		1.12th class marks sheet
+		2.10th class marks sheet (FOR DOB)
+		3.Permenant Resident Certificate(PRC,STATE SUBJECT)
+		4.Photocopy of BOPEE CET Marks sheet.
+		5.Passport size photographes.
+		NOTE:ALL THE CERTIFICATES ARE TO SUBMITTED IN ORIGINALS.AND ALSO 3 SELF ATTESTED COPIES OF EACH CERTIFICATE.
+	     Click on this link to view the documents required for  First Year BE Admissions :     
+             http://www.ssmengg.edu.in/Admissions/First-Year.aspx# </li>
+	<li> Following documents are to be produced:
+		12th class qualification
+		State Subject
+		Date of Birth certificate
+		CET marks
+		all orginal certficates needed
+	     Please goto this link to view the documents required for First Year BE Admissions :   
+             http://www.ssmengg.edu.in/Admissions/First-Year.aspx# </li>
+</random>
+</template>
+</category>
 	
+
+<category>
+<pattern> FEE STRUCTURE FIRST YEAR BE </pattern>
+<template>
+<random>
+	<li> FEE structure for the BE course are as:
+		1.TUTION FEE: 45000 per year (2 semesters)
+		2.DEPARTMENT FEE: 10000 (ONE TIME)
+		3.UNIVERSITY FEE: 1600 per year
+		4.BUS FEE: as per the route
+	     Click on this link to view the fee structure for  First Year BE Admissions :
+             http://www.ssmengg.edu.in/Admissions/First-Year.aspx# </li>
+	<li> Yearly TUTION FEE is 45000,DEPARTMENT FEE is 10000 for full course.
+	     Please goto this link to view the fee structure required for First Year BE Admissions :  
+             http://www.ssmengg.edu.in/Admissions/First-Year.aspx# </li>
+</random>
+</template>
+</category>
+	
+
+<category>
+<pattern> ELIGIBILITY ADMISSION DIRECT SECOND YEAR BE </pattern>
+<template>
+<random>
+	<li> ELIGIBILTY for the SECOND year BE admission is:
+		1.Students dhould have done 3 YEAR DIPLOMA from any registered technical board,with minimum of 50% overall CGPA.
+	        2.Should be resident of JAMMU & KASHMIR.
+		3.Students must have to be appeared in the ENTRANCE test held by BOPEE.
+	     Click on this link to view the eligibility criteria to Direct Second Year BE Admissions:
+             http://www.ssmengg.edu.in/Admissions/AdmissionDirect2ndYearBE.aspx# </li>
+	<li> Students who fulfill the following requirments are ELIGILBLE for admission to BE second year
+		Must have 3 YEAR DIPLOMA DEGREE.
+		RESIDENT OF J AND K
+		Appeared in entrance by BOPEE
+	     Please goto this link to view the eligibility criteria to Direct Second Year BE Admissions :
+	     http://www.ssmengg.edu.in/Admissions/AdmissionDirect2ndYearBE.aspx# </li>
+</random>
+</template>
+</category>
+	
+
+<category>
+<pattern> SEAT DISTRIBUTION ADMISSION DIRECT SECOND YEAR BE </pattern>
+<template>
+<random>
+	<li> Seats alloted to the second year BE applicants are done as per the Vacancies avilable in the departments
+	     Every year approximately 10 seats are available in each department.
+	     Click on this link to view the seat distribution for  Direct Second Year BE Admissions:
+             http://www.ssmengg.edu.in/Admissions/AdmissionDirect2ndYearBE.aspx# </li>
+        <li> Seat distribution depends on the vacancies left in each department.
+	     Please goto this link to view the seat distribution for Direct Second Year BE Admissions for this session : 
+	     http://www.ssmengg.edu.in/Admissions/AdmissionDirect2ndYearBE.aspx# </li>
+</random>
+</template>
+</category>
+	
+
+<category>
+<pattern> DOCUMENTS ADMISSION DIRECT SECOND YEAR BE </pattern>
+<template>
+<random>
+	<li> DOCUMENTS required for the purpose of BE SEcond year admission are:
+		1.3 YEAR DIPLOMA marks sheet
+		2.10th class marks sheet (FOR DOB)
+		3.Permenant Resident Certificate(PRC,STATE SUBJECT)
+		4.Photocopy of BOPEE CET Marks sheet.
+		5.Passport size photographes.
+		NOTE:ALL THE CERTIFICATES ARE TO SUBMITTED IN ORIGINALS.AND ALSO 3 SELF ATTESTED COPIES OF EACH CERTIFICATE.
+	     Click on this link to view the documents required for  Direct Second Year BE Admissions :
+	     http://www.ssmengg.edu.in/Admissions/AdmissionDirect2ndYearBE.aspx# </li>
+	<li> Following documents are to be produced:
+		DIPLOMA qualification
+		State Subject
+		Date of Birth certificate
+		CET markssheet
+		all orginal certficates needed
+	     Please goto this link to view the documents required for Direct Second Year BE Admissions :
+	     http://www.ssmengg.edu.in/Admissions/AdmissionDirect2ndYearBE.aspx# </li>
+</random>
+</template>
+</category>
+	
+
+<category>
+<pattern> FEE STRUCTURE DIRECT SECOND YEAR BE </pattern>
+<template>
+<random>
+	<li>  FEE structure for the BE course are as:
+		1.TUTION FEE: 45000 per year (2 semesters)
+		2.DEPARTMENT FEE: 10000 (ONE TIME)
+		3.UNIVERSITY FEE: 1600 per year
+		4.BUS FEE: as per the route
+		 its same as the first year BE admissions
+	     Click on this link to view the fee structure for  Direct Second Year BE Admissions :
+	     http://www.ssmengg.edu.in/Admissions/AdmissionDirect2ndYearBE.aspx# </li>
+	<li> its same as first year BE admission
+		Yearly TUTION FEE is 45000,DEPARTMENT FEE is 10000 for full course.
+	     Please goto this link to view the fee structure required for Direct Second Year BE Admissions :
+	     http://www.ssmengg.edu.in/Admissions/AdmissionDirect2ndYearBE.aspx# </li>
+</random>
+</template>
+</category>
+
+
+<category>
+<pattern> ELIGIBILITY ADMISSION MBA </pattern>
+<template>
+<random>
+	<li> ELIGIBILITY for the admission to MBA is as:
+		1.Students must have minimum of 3 year Bachelors degree
+		2.Students has to apper in the CMAT exam for admission.
+	     Click on this link to view the eligibility criteria to MBA Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionMBA.aspx# </li>
+	<li> Students who fulfill the following requirments are ELIGILBLE for admission to MBA
+		Student must have bachelors degree and 
+		have appeared in CMAT.
+	     Please goto this link to view the eligibility criteria to MBA Admissions :
+             http://www.ssmengg.edu.in/Admissions/AdmissionMBA.aspx# </li>
+</random>
+</template>
+</category>
+	
+
+<category>
+<pattern> SEAT DISTRIBUTION ADMISSION MBA </pattern>
+<template>
+<random>
+	<li> SSM COLLEGE Intake for the MBA course is 60 seats,alloted by UNIVERSITY OF KASHMIR.
+	     Click on this link to view the seat distribution for  MBA Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionMBA.aspx# </li>
+	<li> We only have 60 seats intake in the MBA course.
+	     Please goto this link to view the seat distribution for MBA Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionMBA.aspx# </li>
+</random>
+</template>
+</category>
+	
+
+<category>
+<pattern> DOCUMENTS ADMISSION MBA </pattern>
+<template>
+<random>
+	<li> DOCUMENTS required for the purpose of MBA admission are:
+		1.3 YEAR BACHELORS DEGREE marks sheet
+		2.10th class marks sheet (FOR DOB)
+		3.Permenant Resident Certificate(PRC,STATE SUBJECT)
+		4.Photocopy of CMAT scorecard.
+		5.Passport size photographes.
+		NOTE:ALL THE CERTIFICATES ARE TO SUBMITTED IN ORIGINALS.AND ALSO 3 SELF ATTESTED COPIES OF EACH CERTIFICATE.
+	     Click on this link to view the documents required for MBA Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionMBA.aspx# </li>
+	<li>Following documents are to be produced:
+		BACHELORS DEGREE qualification
+		State Subject
+		Date of Birth certificate
+		CMAT markssheet
+		all orginal certficates needed
+	     Please goto this link to view the documents required for MBA Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionMBA.aspx# </li>
+</random>
+</template>
+</category>
+	
+
+<category>
+<pattern> FEE STRUCTURE MBA </pattern>
+<template>
+<random>
+	<li> FEE structure for the MBA course is as:
+		1.TUTION FEE:   25000/year
+		2.DEPARTMENT FEE:    10000/course.
+		3.BUS FEE :   As per your ROUTE.
+	     Click on this link to view the fee structure for MBA Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionMBA.aspx# </li>
+	<li> Tution fee is 25000 per year, bus fee is as per your route,and has to pay one time department fee off 10000.
+	     Please goto this link to view the fee structure required for MBA Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionMBA.aspx# </li>
+</random>
+</template>
+</category>
+	
+
+<category>
+<pattern> ELIGIBILITY CRITERIA ADMISSION MTECH </pattern>
+<template>
+<random>
+	<li> ELIGIBILITY for admission to the MTECH is as:
+		1.Student must have valid 4 year BE/BTECH DEGREE in the related field.
+		2.Student must be the resident of jammu and kashmir.
+		3.Should have legitimate GATE score.
+	     Click on this link to view the eligibility criteria to M.Tech Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionMTech.aspx</li>
+	<li> Students who fulfill the following requirments are ELIGILBLE for admission to MTECH
+		Having BE/BTECH degree
+		resident of jandk
+		have GATE scorecard
+	     Please goto this link to view the eligibility criteria to M.Tech Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionMTech.aspx</li>
+</random>
+</template>
+</category>
+	
+
+<category>
+<pattern> SEAT DISTRIBUTION ADMISSION MTECH </pattern>
+<template>
+<random>
+	<li> Seat Distribustion for the MTECH department wise is as
+		1.MECHANICAL DEPARTMENT :   18 seats
+		2.DEPARTMENT OF E&C:    18 seats
+	     Click on this link to view the seat distribution for  M.Tech Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionMTech.aspx</li>
+	<li> only two departments are having MTECH in SSM COLLEGE
+		MECHANICAL:   18 seats
+		E&C:       18 seats
+	    Please goto this link to view the seat distribution for M.Tech Admissions : 
+            http://www.ssmengg.edu.in/Admissions/AdmissionMTech.aspx</li>
+</random>
+</template>
+</category>
+	
+
+<category>
+<pattern> DOCUMENTS ADMISSION MTECH </pattern>
+<template>
+<random>
+	<li> Documents required foer the admission to the MTECH are as:
+		1.BE/BTECH qualification certificate.
+		2.Permenant Resident Certificate(PRC).
+		3.10th clasas certificate.(AS DOB)
+		4.Character certificate of previuos institute.
+		5.GATE scorecared
+		NOTE:ALL THE CERTIFICATE ARE TO BE SUBMITTED AS ORGINALS,WITH 3 SELF ATTESTED COPIES OF THE ALL CERTIFICATES.
+             Click on this link to view the documents required for M.Tech Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionMTech.aspx</li>
+	<li> Following documents are required for MTECH admission:
+		BE/BTECH certificate
+		State SUbject
+		DOB
+		CHARACTER certificate
+		GATE SCORECARD
+		NOTE:ALL THE CERTIFICATE ARE TO BE SUBMITTED AS ORGINALS,WITH 3 SELF ATTESTED COPIES OF THE ALL CERTIFICATES.
+	     Please goto this link to view the documents required for M.Tech Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionMTech.aspx</li>
+</random>
+</template>
+</category>
+	
+
+<category>
+<pattern> FEE STRUCTURE MTECH </pattern>
+<template>
+<random>
+	<li>FEE for the MTECH COURSE is as:
+		1.TUTION FEE:   23000/semester
+		2.BUS FEE:   as per route
+	     Click on this link to view the fee structure for M.Tech Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionMTech.aspx</li>
+	<li> FEE for MTECH PER semester is as:
+		TUTION FEE IS 23000
+		BUS FEE is as per your route
+	     Please goto this link to view the fee structure required for M.Tech Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionMTech.aspx</li>
+</random>
+</template>
+</category>
+	
+
+<category>
+<pattern> ELIGIBILITY ADMISSION MCA </pattern>
+<template>
+<random>
+	<li>ELIGIBILITRY for the admission to MCA is as:
+		1.Student must have the BACHELORS DEGREE.Prefrence will be given to students with BACHELORS in COMPUTER APPLICATION(BCA)
+	        2.Must have appeard in the entrance held by UNIVERSITY OF KASHMIR.
+		3.Should be the resident of state
+	     Click on this link to view the eligibility criteria to MCA Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionMCA.aspx#</li>
+	<li> Students who fulfill the following requirments are ELIGILBLE for admission to MCA
+		Having any of the BACHELORS DEGREE
+		Resident of state
+		Have scporecard of UNIVERSITY Entrance
+	     Please goto this link to view the eligibility criteria to MCA Admissions :
+             http://www.ssmengg.edu.in/Admissions/AdmissionMCA.aspx#</li>
+</random>
+</template>
+</category>
+	
+
+<category>
+<pattern> SEAT DISTRIBUTION ADMISSION MCA </pattern>
+<template>
+<random>
+        <li> Seats available for the admission to MCA 
+		60 seats per year
+	     Click on this link to view the seat distribution for  MCA Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionMCA.aspx#</li>
+	<li> SSM MCA intake is 60 seats per year
+	     Please goto this link to view the seat distribution for MCA Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionMCA.aspx#</li>
+</random>
+</template>
+</category>
+
+
+<category>
+<pattern> DOCUMENTS REQUIRED ADMISSION MCA </pattern>
+<template>
+<random>
+	<li>Documents required to avail ad,ission to MCA is as:
+		1.BACHELORS qualification certificate
+		2.Permenant Resident Certificate(PRC)
+		3.Valid entrance scorecard
+		4.Character certificate from previous institute
+		5.10th class certificate(AS DOB)
+		NOTE:ALL THE CERTIFICATE ARE TO BE SUBMITTED AS ORGINALS,WITH 3 SELF ATTESTED COPIES OF THE ALL CERTIFICATES.
+	     Click on this link to view the documents required for MCA Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionMCA.aspx#</li>
+	<li> For admission to MCA please carry these certficates with you in original copies and self attested copies
+		BACHELORS DEGREE
+		DOB
+		STATE SUBJECT
+		ENTRANCE SCORECARD
+		CHARACTER CERTIFICATE
+	     Please goto this link to view the documents required for MCA Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionMCA.aspx#</li>
+</random>
+</template>
+</category>
+	
+
+<category>
+<pattern> FEE STRUCTURE MCA </pattern>
+<template>
+<random>
+	<li> FEE structure for the MCA Course is as:
+		1.TUTION FEE :    35000 per year
+		2.DEPARTMENT FEE :   10000 one time
+		3.BUSS FEE :   As per your route
+	     Click on this link to view the fee structure for MCA Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionMCA.aspx#</li>
+	<li> Three FEES arre required to be paid by students per year for MCA course
+		TUTION FEE : 35000
+		BUS FEE : as per route
+		DEPARTMENT FEE :    10000 (ONE TIME)
+	     Please goto this link to view the fee structure required for MCA Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionMCA.aspx#</li>
+</random>
+</template>
+</category>
+
+
+<category>
+<pattern> ELIGIBILITY ADMISSION DIPLOMA </pattern>
+<template>
+<random>
+        <li>ELIGILITIY for the admission to the DIPLOMA is as
+		1.Minimum of qualification must be 10th with 50% of marks in MATH
+		2.Resident of state
+		3.Student must have appeared in the Entrance Exam by BOPEE
+	     Click on this link to view the eligibility criteria to DIPLOMA Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionDIPLOMA.aspx#</li>
+	<li>Students who fulfill the following requirments are Eligible for the admission to the DIPLOMA
+		10th claas qualified with minimun of 50% marks 
+		Resident of state
+		Hvae valid scorecard of Entrance test held by BOPEE
+	     Please goto this link to view the eligibility criteria to DIPLOMA Admissions :
+             http://www.ssmengg.edu.in/Admissions/AdmissionDIPLOMA.aspx#</li>
+</random>
+</template>
+</category>
+
+
+<category>
+<pattern> SEAT DISTRIBUTION ADMISSION DIPLOMA </pattern>
+<template>
+<random>
+        <li> SEAT distribution for DIPLOMA Department wise is as:
+		1.Department of Civil Engineering :    120 students with 2 sections
+	     	2.Department of Mechanical Engineering:   120 students with 2 sections
+	     	3.Department of E&C :       120 students with 2 sections
+	     	4.Department of Electricel Engineering :  60 students with 1 section
+	     	5.Department of Computer Science Engineering :    120 students with 2 sections
+	     Click on this link to view the seat distribution for  DIPLOMA Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionDIPLOMA.aspx#</li>
+	<li> SSM has following SEAT distribution for DIPLOMA 
+		1. Civil Engineering :    120 students with 2 sections
+	     	2. Mechanical Engineering:   120 students with 2 sections
+	     	3. E&C :       120 students with 2 sections
+	     	4. Electricel Engineering :  60 students with 1 section
+	     	5. Computer Science Engineering :    120 students with 2 sections
+	     Please goto this link to view the seat distribution for DIPLOMA Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionDIPLOMA.aspx#</li>
+</random>
+</template>
+</category>
+
+
+<category>
+<pattern> DOCUMENTS REQUIRED ADMISSION DIPLOMA </pattern>
+<template>
+<random>
+	<li>Documents for availing admission to the DIPLOMA are as:
+		1.10th claas marks sheet
+		2.10th class certificate for DOB
+		3.Character/leaving certificate of previuos school
+		4.Resident certificate(PRC)
+		5.BOPEE Enrance scorecard
+	     Click on this link to view the documents required for DIPLOMA Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionDIPLOMA.aspx#</li>
+	<li>Following Documents to be presented at the time of the admission to DIPLOMA
+		10th class markssheet
+		DOB
+		State subject
+		Character/leaving certificate
+		Entrance score
+	     Please goto this link to view the documents required for DIPLOMA Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionDIPLOMA.aspx#</li>
+</random>
+</template>
+</category>
+
+
+<category>
+<pattern> FEE STRUCTURE DIPLOMA </pattern>
+<template>
+<random>
+	<li> FEE structure for the DIPLOMA course is as:
+		1.TUTION FEE :   21000/year
+		2.BUSS FEE :   as per the route
+		3.DEPARTMENT FEE :  10000/course
+	     Click on this link to view the fee structure for DIPLOMA Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionDIPLOMA.aspx#</li>
+	<li>FOllowing FEE is to be paid by student for DIPLOMA course 
+		TUTION FEE :  21000 per year
+		BUS FEE :   as per the route
+		DEPARTMENT FEE :  10000  (one time )
+	     Please goto this link to view the fee structure required for DIPLOMA Admissions : 
+             http://www.ssmengg.edu.in/Admissions/AdmissionDIPLOMA.aspx#</li>
+</random>
+</template>
+</category>
+	
+
+<category>
+<pattern> RESEARCH & DEVELOPMENT CELL </pattern>
+<template>
+<random>
+	<li> SSM COLLOEGE HAS ONE OF THE FINEST RESEARCH AND DEVELOPMENT CELL IN THE WHOLE VALLEY.
+	     THE COLLEGE HAS DONE VARIOUS NUMBER OF PROJECTS AND DEVELOPMENTS,ONE OF THE FINEST PROJECT
+	     DONE BY STUDENTS OF THIS COLLEGE IS THE BOT YOU ARE TALKING THIS TIME.
+	     Click on this link to view the details regarding RandD Cell and the projects done: 
+             http://www.ssmengg.edu.in/R%20and%20D/RandDCell.aspx</li>
+	<li> SSM COLLEGE HAS WELL EQUIPED R&D CELL.STUDENTS HAVE DONE VARIOUS PROJECTS AND RESEARCHS
+	     Please goto this link to view the details regarding RandD Cell and the work done: 
+             http://www.ssmengg.edu.in/R%20and%20D/RandDCell.aspx</li>
+</random>
+</template>
+</category> 
+</aiml>
