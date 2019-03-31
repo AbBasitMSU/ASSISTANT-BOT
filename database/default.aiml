@@ -23,9 +23,9 @@ No match
 <category><pattern>COLLEGE NAME</pattern>
 <template>
 <random>
-	<li>Did you forget? It is: Shri Ramdeobaba College Of Engineering and Management(RCOEM)</li>
-	<li>Trying to test me? LOL! It is: Shri Ramdeobaba College Of Engineering and Management(RCOEM)</li>
-	<li>Our College name is: Shri Ramdeobaba College Of Engineering and Management(RCOEM)</li>
+	<li>Did you forget? It is: SSM College Of Engineering and Technology(SSMCOET)</li>
+	<li>Trying to test me?  It is: SSM College Of Engineering and Technology(SSMCOET)</li>
+	<li>Our College name is: SSM College Of Engineering and Technology(SSMCOET)</li>
 </random>
 </template>
 </category>
