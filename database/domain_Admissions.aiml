@@ -84,14 +84,14 @@
 	<li> The seat distribution for first year BE admisssion is as:
 	     1.Department of Civil Engineering :    180 students with 3 sections
 	     2.Department of Mechanical Engineering:   120 students with 2 sections
-	     3.Department of E&C :       120 students with 2 sections
+	     3.Department of E and C :       120 students with 2 sections
 	     4.Department of Electricel Engineering :  60 students with 1 section
 	     5.Department of Computer Science Engineering :    120 students with 2 sections
 	     Click on this link for further clarification :   
              http://www.ssmengg.edu.in/Admissions/First-Year.aspx# </li>
 	<li> Seat distribution in SSM in BE degree is as:
 	     CIVIL :  180 seats      MECHANICAL :    120 seats
-	     E&C :    120 seats      ELECTRICAL :    60 seats
+	     E and C :    120 seats      ELECTRICAL :    60 seats
 		     COMPUTER SCIENCE :   120 seats
 	     Please goto this link to view the seat distribution for First Year BE Admissions :  
              http://www.ssmengg.edu.in/Admissions/First-Year.aspx# </li>
@@ -150,8 +150,8 @@
 <template>
 <random>
 	<li> ELIGIBILTY for the SECOND year BE admission is:
-		1.Students dhould have done 3 YEAR DIPLOMA from any registered technical board,with minimum of 50% overall CGPA.
-	        2.Should be resident of JAMMU & KASHMIR.
+		1.Students dhould have done 3 YEAR DIPLOMA from any registered technical board,with minimum of 50 percent overall CGPA.
+	        2.Should be resident of JAMMU and KASHMIR.
 		3.Students must have to be appeared in the ENTRANCE test held by BOPEE.
 	     Click on this link to view the eligibility criteria to Direct Second Year BE Admissions:
              http://www.ssmengg.edu.in/Admissions/AdmissionDirect2ndYearBE.aspx# </li>
@@ -318,8 +318,8 @@
 	     Click on this link to view the eligibility criteria to M.Tech Admissions : 
              http://www.ssmengg.edu.in/Admissions/AdmissionMTech.aspx</li>
 	<li> Students who fulfill the following requirments are ELIGILBLE for admission to MTECH
-		Having BE/BTECH degree
-		resident of jandk
+		Having BE or BTECH degree
+		resident of j and k
 		have GATE scorecard
 	     Please goto this link to view the eligibility criteria to M.Tech Admissions : 
              http://www.ssmengg.edu.in/Admissions/AdmissionMTech.aspx</li>
@@ -334,12 +334,12 @@
 <random>
 	<li> Seat Distribustion for the MTECH department wise is as
 		1.MECHANICAL DEPARTMENT :   18 seats
-		2.DEPARTMENT OF E&C:    18 seats
+		2.DEPARTMENT OF E and C:    18 seats
 	     Click on this link to view the seat distribution for  M.Tech Admissions : 
              http://www.ssmengg.edu.in/Admissions/AdmissionMTech.aspx</li>
 	<li> only two departments are having MTECH in SSM COLLEGE
 		MECHANICAL:   18 seats
-		E&C:       18 seats
+		E and C:       18 seats
 	    Please goto this link to view the seat distribution for M.Tech Admissions : 
             http://www.ssmengg.edu.in/Admissions/AdmissionMTech.aspx</li>
 </random>
@@ -362,7 +362,7 @@
              http://www.ssmengg.edu.in/Admissions/AdmissionMTech.aspx</li>
 	<li> Following documents are required for MTECH admission:
 		BE/BTECH certificate
-		State SUbject
+		State Subject
 		DOB
 		CHARACTER certificate
 		GATE SCORECARD
@@ -482,13 +482,13 @@
 <template>
 <random>
         <li>ELIGILITIY for the admission to the DIPLOMA is as
-		1.Minimum of qualification must be 10th with 50% of marks in MATH
+		1.Minimum of qualification must be 10th with 50 percent of marks in MATH
 		2.Resident of state
 		3.Student must have appeared in the Entrance Exam by BOPEE
 	     Click on this link to view the eligibility criteria to DIPLOMA Admissions : 
              http://www.ssmengg.edu.in/Admissions/AdmissionDIPLOMA.aspx#</li>
 	<li>Students who fulfill the following requirments are Eligible for the admission to the DIPLOMA
-		10th claas qualified with minimun of 50% marks 
+		10th claas qualified with minimun of 50 percent marks 
 		Resident of state
 		Hvae valid scorecard of Entrance test held by BOPEE
 	     Please goto this link to view the eligibility criteria to DIPLOMA Admissions :
@@ -505,7 +505,7 @@
         <li> SEAT distribution for DIPLOMA Department wise is as:
 		1.Department of Civil Engineering :    120 students with 2 sections
 	     	2.Department of Mechanical Engineering:   120 students with 2 sections
-	     	3.Department of E&C :       120 students with 2 sections
+	     	3.Department of E and C :       120 students with 2 sections
 	     	4.Department of Electricel Engineering :  60 students with 1 section
 	     	5.Department of Computer Science Engineering :    120 students with 2 sections
 	     Click on this link to view the seat distribution for  DIPLOMA Admissions : 
@@ -513,7 +513,7 @@
 	<li> SSM has following SEAT distribution for DIPLOMA 
 		1. Civil Engineering :    120 students with 2 sections
 	     	2. Mechanical Engineering:   120 students with 2 sections
-	     	3. E&C :       120 students with 2 sections
+	     	3. E and C :       120 students with 2 sections
 	     	4. Electricel Engineering :  60 students with 1 section
 	     	5. Computer Science Engineering :    120 students with 2 sections
 	     Please goto this link to view the seat distribution for DIPLOMA Admissions : 
@@ -570,15 +570,15 @@
 	
 
 <category>
-<pattern> RESEARCH & DEVELOPMENT CELL </pattern>
+<pattern> RESEARCH and DEVELOPMENT CELL </pattern>
 <template>
 <random>
 	<li> SSM COLLOEGE HAS ONE OF THE FINEST RESEARCH AND DEVELOPMENT CELL IN THE WHOLE VALLEY.
 	     THE COLLEGE HAS DONE VARIOUS NUMBER OF PROJECTS AND DEVELOPMENTS,ONE OF THE FINEST PROJECT
 	     DONE BY STUDENTS OF THIS COLLEGE IS THE BOT YOU ARE TALKING THIS TIME.
-	     Click on this link to view the details regarding RandD Cell and the projects done: 
+	     Click on this link to view the details regarding R and D Cell and the projects done: 
              http://www.ssmengg.edu.in/R%20and%20D/RandDCell.aspx</li>
-	<li> SSM COLLEGE HAS WELL EQUIPED R&D CELL.STUDENTS HAVE DONE VARIOUS PROJECTS AND RESEARCHS
+	<li> SSM COLLEGE HAS WELL EQUIPED R and D CELL.STUDENTS HAVE DONE VARIOUS PROJECTS AND RESEARCHS
 	     Please goto this link to view the details regarding RandD Cell and the work done: 
              http://www.ssmengg.edu.in/R%20and%20D/RandDCell.aspx</li>
 </random>
